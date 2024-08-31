@@ -1,0 +1,21 @@
+.creditCard {
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding: 1rem;
+    max-width: 350px;
+    word-spacing: 10px;
+    border-radius: 15px;
+    margin: 1rem;
+}
+
+.cardNumber {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 20px;
+}
+
+.creditCard div img {
+    width: 50px;
+    height: auto;
+}
